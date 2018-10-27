@@ -42,7 +42,4 @@
 
 # 更多信息请查看wiki #
   
-weijin1
-weijin2
-weijin3
-weijin4
+weijin-----
